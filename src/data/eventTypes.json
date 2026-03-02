@@ -1,0 +1,8 @@
+[
+  { "value": "", "label": "Selecione..." },
+  { "value": "culto", "label": "Culto" },
+  { "value": "reuniao", "label": "Reunião" },
+  { "value": "palestra", "label": "Palestra" },
+  { "value": "workshop", "label": "Workshop" },
+  { "value": "congresso", "label": "Congresso" }
+]
